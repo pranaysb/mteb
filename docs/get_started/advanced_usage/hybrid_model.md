@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Model"
-icon: lucide/merge
+icon: lucide/blend
 ---
 
 # Hybrid Model
